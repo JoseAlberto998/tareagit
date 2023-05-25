@@ -7,4 +7,9 @@ package com.mycompany.campuzanoimperialjosealberto;
  */
 public class Imperial {
     
+    public void metodo()
+    {
+        System.out.println("prueba");
+    }
+    
 }
