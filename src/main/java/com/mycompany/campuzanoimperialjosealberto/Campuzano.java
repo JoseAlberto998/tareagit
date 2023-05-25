@@ -10,4 +10,8 @@ public class Campuzano {
     {
         System.out.println("prueba2");
     }
+     public void metodo3()
+    {
+        System.out.println("prueba2");
+    }
 }

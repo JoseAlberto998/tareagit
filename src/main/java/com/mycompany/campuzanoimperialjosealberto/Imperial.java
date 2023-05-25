@@ -11,5 +11,9 @@ public class Imperial {
     {
         System.out.println("prueba");
     }
+       public void metodo3()
+    {
+        System.out.println("prueba");
+    }
     
 }
